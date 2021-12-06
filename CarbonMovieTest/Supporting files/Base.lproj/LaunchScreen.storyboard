@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="carbonhomepage" translatesAutoresizingMaskIntoConstraints="NO" id="HxM-1f-fVp">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="carbonscreen" translatesAutoresizingMaskIntoConstraints="NO" id="HxM-1f-fVp">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                         </subviews>
@@ -26,7 +26,7 @@
                             <constraint firstItem="HxM-1f-fVp" firstAttribute="bottom" secondItem="Ze5-6b-2t3" secondAttribute="bottom" id="0xQ-ss-VTx"/>
                             <constraint firstItem="HxM-1f-fVp" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="I4Q-zj-t6u"/>
                             <constraint firstItem="HxM-1f-fVp" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="cfO-xH-wRe"/>
-                            <constraint firstAttribute="trailing" secondItem="HxM-1f-fVp" secondAttribute="trailing" id="jlW-kT-yy2"/>
+                            <constraint firstItem="HxM-1f-fVp" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="jlW-kT-yy2"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -36,6 +36,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="carbonhomepage" width="974" height="1953"/>
+        <image name="carbonscreen" width="409.5" height="812"/>
     </resources>
 </document>

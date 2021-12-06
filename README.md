@@ -18,7 +18,6 @@ The App contains three screens, the splash screen, the movie list screen, and th
 * Programmatic UI
 * NS UserDefaults
 * UISearch Controller
-* Swipe To Delete
 * Delegation
 
 

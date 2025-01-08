@@ -1,7 +1,7 @@
 # Carbon-Movie-App
 Forecast App is an ios application built on top of omdb movie api for batman lovers to see their favorite batman movies, users can also search for other movies available on the omdb api.
 
-##Description
+## Description
 The App contains three screens, the splash screen, the movie list screen, and the movie detail screen
 
 
